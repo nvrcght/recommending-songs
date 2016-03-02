@@ -7,10 +7,10 @@ the simple popularity-based recommendation with a personalized model, and showed
 the significant improvement provided by personalization.
 
 
-Learning outcomes
+####Outcome:
 
--Execute song recommendation code with the iPython notebook  
--Load and transform real, song data  
--Build a song recommender model  
--Use the model to recommend songs to individual users  
--Use groupby to compute aggregate statistics of the data  
+-Executing song recommendation code with the iPython notebook  
+-Loading and transforming real, song data  
+-Building a song recommender model  
+-Using the model to recommend songs to individual users  
+-Using groupby to compute aggregate statistics of the data  
